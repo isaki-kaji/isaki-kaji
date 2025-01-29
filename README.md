@@ -1,5 +1,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isaki-kaji&theme=2077)
-
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaki-kaji&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 <!--
 **isaki-kaji/isaki-kaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
