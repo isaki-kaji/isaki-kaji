@@ -7,6 +7,7 @@
 | 名前     | 岡嶋 柾希                      |
 | 居住地   | 東京都                         |
 | 最終学歴 | 明治大学 政治経済学部 政治学科 |
+| GitHub   | [isaki-kaji](https://github.com/isaki-kaji) |
 
 ## 職務要約
 
@@ -136,6 +137,13 @@ Cloud Run・Firebase
 ### 業務外での活動
 
 日々技術書を読んだり個人開発を行っています。
+
+---
+
+## 連絡先・リンク
+
+- **GitHub**: [https://github.com/isaki-kaji](https://github.com/isaki-kaji)
+- **個人開発アプリ**: [Nijimas](https://github.com/isaki-kaji/nijimas) - 家計簿SNS（2025年7月15日リリース）
 
 ---
 
